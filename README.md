@@ -1,0 +1,2 @@
+# namosgen
+my namosgen
